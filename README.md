@@ -1,7 +1,6 @@
 # Projeto-site
  Projeto de um site criado durante o curso de Git e GitHub.
- 
-[Click here!](https://patricia-bandeira.github.io/Projeto-site/index.html)
+ [Click here!](https://patricia-bandeira.github.io/Projeto-site/index.html)
  #
  ![image](https://user-images.githubusercontent.com/92181116/138547445-e55fd1a0-8534-4073-b524-e1e90956406a.png)
 
